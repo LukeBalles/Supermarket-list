@@ -1,0 +1,11 @@
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\obj\Debug\Supermarket.Form1.resources
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\lucas\Desktop\Repositorio git\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
